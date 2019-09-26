@@ -5,7 +5,7 @@
 
 exports:
     header-dirs: 
-      - polyscope/include/
+      - polyscope/src/
     modules:
-      polyscope: polyscope/
+      pmp: pmp-library/
 

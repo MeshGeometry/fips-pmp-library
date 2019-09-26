@@ -13,7 +13,7 @@ endif()
 
 
 fips_add_subdirectory(pmp-library/)
-fips_libs(pmp)
+#fips_libs(pmp)
 
 
 if (NOT FIPS_IMPORT)
