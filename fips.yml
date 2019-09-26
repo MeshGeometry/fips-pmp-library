@@ -1,11 +1,11 @@
 #
-# fips-polyscope
+# fips-pmp-library
 #
 ---
 
 exports:
     header-dirs: 
-      - polyscope/src/
+      - pmp-library/src/
     modules:
       pmp: pmp-library/
 
