@@ -1,0 +1,11 @@
+#
+# fips-polyscope
+#
+---
+
+exports:
+    header-dirs: 
+      - polyscope/include/
+    modules:
+      polyscope: polyscope/
+
